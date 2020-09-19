@@ -1,0 +1,4 @@
+itcodeschool:
+	name: prod
+server:
+	prot: 9529
