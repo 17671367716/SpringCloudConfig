@@ -1,3 +1,4 @@
-name: dev
+itcodeschool:
+ name: dev
 server:
  port: 9527
